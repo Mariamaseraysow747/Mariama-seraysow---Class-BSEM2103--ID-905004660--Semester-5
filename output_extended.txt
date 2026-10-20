@@ -1,0 +1,25 @@
+12.5
+-----
+60
+-----
+7
+-----
+10
+-----
+3.333333
+-----
+6.25
+-----
+12
+-----
+2
+-----
+10
+-----
+Error: Division by zero
+-----
+Error: Mismatched parentheses: missing ')'
+-----
+Error: Missing operand before '*'
+-----
+Error: Invalid character '$'
