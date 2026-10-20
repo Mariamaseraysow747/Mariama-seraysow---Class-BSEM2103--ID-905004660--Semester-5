@@ -143,15 +143,5 @@ Main functions:
 ## 9. Submitting to GitHub
 
 1. Create a new repository on GitHub (for example `stack-expression-evaluator`).
-2. In this folder run:
 
-   ```
-   git init
-   git add .
-   git commit -m "Stack-based expression evaluator"
-   git branch -M main
-   git remote add origin https://github.com/<your-username>/stack-expression-evaluator.git
-   git push -u origin main
-   ```
-
-3. On GitHub open **Settings → Collaborators → Add people** and add your lecturer.
+2. On GitHub open **Settings → Collaborators → Add people** and add your lecturer.
